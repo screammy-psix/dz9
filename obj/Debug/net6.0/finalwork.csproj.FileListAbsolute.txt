@@ -1,0 +1,15 @@
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\bin\Debug\net6.0\finalwork.exe
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\bin\Debug\net6.0\finalwork.deps.json
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\bin\Debug\net6.0\finalwork.runtimeconfig.json
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\bin\Debug\net6.0\finalwork.dll
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\bin\Debug\net6.0\finalwork.pdb
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.csproj.AssemblyReference.cache
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfoInputs.cache
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfo.cs
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.dll
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\refint\finalwork.dll
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.pdb
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\finalwork.genruntimeconfig.cache
+C:\Users\Sveta\Desktop\gitworkspace\finalwork\obj\Debug\net6.0\ref\finalwork.dll
