@@ -57,5 +57,30 @@ symbols[i] = Convert.ToChar(el2);
 Console.Write(symbols[i] + ",");
 
 }
+}
+
+
+
+Console.WriteLine();
+
+int count = 0;
+
+for (int i = 0; i < symbols.Length; i++)
+
+{
+
+bool flag = symbols[i] >= '0' && symbols[i] <= '9';
+
+if (flag == false)
+
+{
+
+count++;
+
+}
+
+
+
+}
 
 
