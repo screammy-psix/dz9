@@ -44,3 +44,18 @@ symbols[i] = Convert.ToChar(el2);
 Console.Write(symbols[i] + ",");
 
 }
+  else
+
+{
+
+el = el % 10;
+
+el2 = Convert.ToString(el);
+
+symbols[i] = Convert.ToChar(el2);
+
+Console.Write(symbols[i] + ",");
+
+}
+
+
