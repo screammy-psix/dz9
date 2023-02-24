@@ -27,3 +27,20 @@ char[] symbols = new char[10];
 string alf = "абвгджзиклмнопрстуфхцчшщэюя";
 
 for (int i = 0; i < symbols.Length; i++)
+{
+
+int el = new Random().Next(1, 27);
+
+string el2;
+
+if (i % 2 == 0)
+
+{
+
+el2 = Convert.ToString(alf[el]);
+
+symbols[i] = Convert.ToChar(el2);
+
+Console.Write(symbols[i] + ",");
+
+}
