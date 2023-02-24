@@ -83,4 +83,37 @@ count++;
 
 }
 
+System.Console.WriteLine();
+
+string[] finalString = new string[count];
+
+int j = 0;
+
+for (int i = 0; i < symbols.Length; i++)
+
+{
+
+
+
+bool flag = symbols[i] >= '0' && symbols[i] <= '9';
+
+if (flag == false)
+
+{
+
+
+
+finalString[j] = Convert.ToString(symbols[i]);
+
+Console.Write(finalString[j] + ",");
+
+j++;
+
+}
+
+
+
+
+
+}
 
